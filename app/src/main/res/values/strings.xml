@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProductShop</string>
+    <string name="name">НОВОСЁЛ</string>
+    <string name="shop">Магазин</string>
+    <string name="adress">Адрес</string>
+    <string name="street">Ул. Новоселов 19</string>
+    <string name="products">Продукты</string>
+    <string name="discount">Скидки</string>
+    <string name="category">Категории</string>
+</resources>
